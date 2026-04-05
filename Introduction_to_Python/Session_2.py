@@ -42,3 +42,40 @@ Exercise:
 4. Reverse the string using slicing.
 '''
 # --------------------------------------------------
+
+# Boolean Logic and Comparison Operators
+a = 10
+b = 20
+print(a > b)   # output: False
+print(a < b)   # output: True
+print(a == b)  # output: False
+print(a != b)  # output: True
+print(a >= b)  # output: False
+print(a <= b)  # output: True
+
+# Using and logical operator
+print((a > 5) and (b > 15))  # output: True
+print((a > 15) and (b > 15)) # output: False
+
+# Using or logical operator
+print((a > 5) or (b > 15))   # output: True
+print((a > 15) or (b > 15))  # output: True
+print((a > 15) or (b > 25))  # output: False
+
+# --------------------------------------------------
+
+# Difference between == and = operator
+''' 
+=  This is the assignment operator, used to assign a value to a variable.
+== This is the equality operator, used to compare two values for equality. 
+   It returns True if the values are equal and False otherwise.
+
+'''
+
+x = 10
+y = 10
+print(x == y)  # output: True
+print(x = y)   # output: Error
+
+# --------------------------------------------------
+ 
