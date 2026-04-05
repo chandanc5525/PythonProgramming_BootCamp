@@ -1,0 +1,14 @@
+chandan-aiops
+numpy 
+pandas
+scikit-learn
+matplotlib
+seaborn
+pydantic
+pytest
+requests
+flask
+sqlalchemy
+mysql-connector-python
+uvicorn
+jinja2
