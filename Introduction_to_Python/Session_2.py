@@ -35,7 +35,7 @@ print(string[::-1]) # Reversed string
 
 ''' 
 Exercise:
-1. Ask the user to input a string and perform the following operations:
+[A]. Ask the user to input a string and perform the following operations:
 1. Extract the word "Welcome" from the string.
 2. Extract the word "Python" from the string.
 3. Extract every third character from the string.
