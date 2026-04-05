@@ -29,30 +29,7 @@ By completing this bootcamp, learners will be able to:
 
 ---
 
-## **Curriculum Content**
-
-```
-PythonProgramming_BootCamp/
-│
-├── 01_Setup/
-├── 02_Core_Python/
-├── 03_Data_Structures/
-├── 04_Control_Flow/
-├── 05_Functions/
-├── 06_Advanced_Python/
-├── 07_Error_Handling/
-├── 08_Modules/
-├── 09_OOP/
-├── 10_File_IO/
-├── 11_Databases/
-├── 12_Testing/
-├── 13_Regex/
-├── 14_Web_Scraping/
-└── 15_Flask and FASTAPI
-└── 16_Streamlit
-└── 17_Projects
-
-```
+![alt text](PythonProgramming_BootCamp.png)
 
 ---
 
